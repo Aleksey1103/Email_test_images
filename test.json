@@ -1,4 +1,1 @@
-{
-  "name": "testJson",
-  "data": [1,2,3,4,5],
-}
+{"name": "testJson","data": [1,2,3,4,5]}
